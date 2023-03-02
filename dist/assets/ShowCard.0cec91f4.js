@@ -1,0 +1,1 @@
+import{a as t}from"./index.2328f365.js";function l(a){return t("div",{className:"card-wrapper",children:t("div",{className:"card",children:t("img",{onClick:()=>{a.setSelectedCard(a.contentData),console.log(a.contentData),a.setShowModal(!0)},className:"card-img",loading:"lazy",src:a.contentData.img_url,alt:a.contentData.title})})})}export{l as default};
