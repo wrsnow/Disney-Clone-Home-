@@ -1,0 +1,134 @@
+{
+  "movies": [
+    {
+      "name": "The Lion King",
+      "year": 2019,
+      "genre": "Adventure, Drama, Family",
+      "description": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own.",
+      "poster": "./assets/movies_covers/the-lion-king.jpg"
+    },
+    {
+      "name": "Frozen II",
+      "year": 2019,
+      "genre": "Animation, Adventure, Comedy",
+      "description": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
+      "poster": "./assets/movies_covers/frozen.jpg"
+    },
+    {
+      "name": "Moana",
+      "year": 2016,
+      "genre": "Animation, Adventure, Comedy",
+      "description": "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder.",
+      "poster": "./assets/movies_covers/Moana-Movie-Poster-landscape.jpg"
+    },
+    {
+      "name": "Zootopia",
+      "year": 2016,
+      "genre": "Animation, Adventure, Comedy",
+      "description": "From the largest elephant to the smallest shrew, the city of Zootopia is a mammal metropolis where various animals live and thrive. When Judy Hopps becomes the first rabbit to join the police force, she quickly learns how tough it is to enforce the law.",
+      "poster": "./assets/movies_covers/zootopia-all-characters-wallpaper-2560x1080_14.jpg"
+    },
+    {
+      "name": "Toy Story 4",
+      "year": 2019,
+      "genre": "Animation, Adventure, Comedy",
+      "description": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+      "poster": "./assets/movies_covers/toy-story-4.jpg"
+    },
+    {
+      "name": "Aladdin",
+      "year": 2019,
+      "genre": "Adventure, Fantasy, Romance",
+      "description": "A street urchin discovers a wish-granting genie in a lamp, and uses his new powers to become a prince in order to win the heart of a princess.",
+      "poster": "./assets/movies_covers/Aladdin_2019_HD_Movies_Desktop_Poster_1366x768.jpg"
+    },
+    {
+      "name": "The Incredibles",
+      "year": 2004,
+      "genre": "Animation, Action, Adventure",
+      "description": "A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.",
+      "poster": "./assets/movies_covers/the-incredibles.jpg"
+    },
+    {
+      "name": "Star Wars: The Rise of Skywalker",
+      "year": 2019,
+      "genre": "Action, Adventure, Fantasy",
+      "description": "The surviving Resistance faces the First Order once again as Rey, Finn and Poe Dameron's journey continues. With the power and knowledge of generations behind them, the final battle commences.",
+      "poster": "./assets/movies_covers/star-wars-episode-9-the-rise-of-skywalker-theatre-movie-poster-textless-and-expanded-web-banner.webp"
+    }
+  ],
+  "shows": [
+    {
+      "name": "The Mandalorian",
+      "year": 2019,
+      "seasons": 2,
+      "genre": "Action, Adventure, Sci-Fi",
+      "description": "After the fall of the Galactic Empire, a lone gunfighter makes his way through the lawless galaxy.",
+      "poster": "./assets/movies_covers/55-559511_disney-plus-the-mandalorian-poster.jpg"
+    },
+    {
+      "name": "Star Wars: The Clone Wars",
+      "year": 2008,
+      "seasons": 7,
+      "genre": "Animation, Action, Adventure",
+      "description": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+      "poster": "./assets/movies_covers/star-wars-clone-wars.jpg"
+    },
+    {
+      "name": "High School Musical: The Musical: The Series",
+      "year": 2019,
+      "seasons": 2,
+      "genre": "Musical, Family, Comedy",
+      "description": "A group of students at a school for the performing arts navigate love, rivalries and the challenges of growing up.",
+      "poster": "./assets/movies_covers/High-school-Musical-cast.jpg"
+    },
+    {
+      "name": "The World According to Jeff Goldblum",
+      "year": 2018,
+      "seasons": 3,
+      "genre": "Documentary, Adventure",
+      "description": "Jeff Goldblum explores the unexpected and often surprising stories behind everyday objects and interests.",
+      "poster": "./assets/movies_covers/theworldaccordings2_dark-bg_3840x2160_fm-v1_2a05088e.jpeg"
+    },
+    {
+      "name": "The Simpsons",
+      "year": 1989,
+      "seasons": 32,
+      "genre": "Animation, Comedy",
+      "description": "The satiric adventures of a working-class family in the misfit city of Springfield.",
+      "poster": "./assets/movies_covers/simpsons.jpg"
+    },
+    {
+      "name": "The Owl House",
+      "year": 2020,
+      "seasons": 2,
+      "genre": "Animation, Fantasy, Adventure",
+      "description": "A human girl named Luz, discovers a portal to a magical realm and becomes embroiled in a power struggle between rival witch clans.",
+      "poster": "./assets/movies_covers/the-owl-house-disney-title-mu9c86sjfmbk37fn.jpg"
+    },
+    {
+      "name": "Monsters at Work",
+      "year": 2021,
+      "seasons": 1,
+      "genre": "Animation, Adventure, Comedy",
+      "description": "The story takes place six months after the Monsters, Inc. power plant started harnessing the laughter of children to fuel the city of Monstropolis, thanks to Sulley and Mike's discovery that laughter generates ten times more energy than screams.",
+      "poster": "./assets/movies_covers/monsters-at-work.png"
+    },
+    {
+      "name": "Marvel's Spider-Man: Maximum Venom",
+      "year": 2021,
+      "seasons": 1,
+      "genre": "Animation, Action, Adventure",
+      "description": "A combination of new episodes and a new storyline arc with Spider-Man dealing with Venom and the return of the symbiote invasion.",
+      "poster": "./assets/movies_covers/marvels-spider-man-maximum-venom.jpg"
+    },
+    {
+      "name": "The Falcon and The Winter Soldier",
+      "year": 2021,
+      "seasons": 1,
+      "genre": "Action, Adventure, Sci-Fi",
+      "description": "Following the events of 'Avengers: Endgame,' Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities—and their patience.",
+      "poster": "./assets/movies_covers/The_Falcon_and_The_Winter_Soldier_4K_Wallpaper.webp"
+    }
+  ]
+}

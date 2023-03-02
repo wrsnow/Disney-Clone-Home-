@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #161922;
+  padding-bottom: 6rem;
+}
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: #3a4a57;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #8096a8;
+}
+*,
+*:before,
+*::after {
+  font-family: "Sen", sans-serif;
+  box-sizing: border-box;
+}
+
+@layer components {
+  .pagination-dots {
+    width: 0.75rem;
+    height: 0.75rem;
+    border: 2px solid rgb(163, 163, 163);
+    border-radius: 50%;
+    cursor: pointer;
+  }
+
+  /* .linear-bg {
+    background: linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.3) 0% 10%,
+      transparent 20% 80%,
+      rgba(0, 0, 0, 0.3) 90% 100%
+    );
+    z-index: 11;
+    pointer-events: none;
+  } */
+
+  /* Highlights Carousel */
+
+  .controls {
+    @apply cursor-pointer absolute text-slate-50 top-[50%] translate-y-[-50%];
+  }
+  .overlay-highlights {
+    @apply absolute top-0 left-0 w-full h-full z-10 pointer-events-none bg-gradient-to-l from-black/50 via-transparent to-black/50;
+  }
+
+  /*  */
+
+  /*  */
+
+  .chevrons {
+    @apply select-none cursor-pointer absolute text-slate-50 top-[50%] translate-y-[-50%];
+  }
+  /*  */
+
+  /* Movie Card */
+
+  .card-wrapper {
+    @apply lg:w-1/4 md:w-1/3 w-1/2 p-5 flex-none;
+  }
+  .card {
+    @apply bg-card-color cursor-pointer hover:border-blue-200 hover:scale-105 border-2 border-transparent duration-200 rounded-sm;
+  }
+  .card-img {
+    @apply w-full aspect-video rounded-[inherit] object-cover object-bottom;
+  }
+  /*  */
+
+  @media (max-width: 768px) {
+    .pagination-dots {
+      width: 0.5rem;
+      height: 0.5rem;
+    }
+  }
+}
