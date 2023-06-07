@@ -15,8 +15,6 @@ function ShowsRow({ contentData, setShowModal, setSelectedCard, rowTitle }) {
     transform: `translateX(${currentSlide}%)`,
   };
 
-  console.log(contentData);
-
   function nextSlide() {
     let lastRow = -(Math.floor(contentData.length / cardsPerRow) * 100);
     if (currentSlide <= lastRow) {

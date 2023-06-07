@@ -1,7 +1,7 @@
 function ShowCard(props) {
   const handleClick = () => {
     props.setSelectedCard(props.contentData);
-    console.log(props.contentData);
+
     props.setShowModal(true);
   };
 

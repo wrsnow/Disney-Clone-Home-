@@ -1,8 +1,5 @@
-import React from "react";
-
 function HighlightsPagination({ imagesLength, currentSlide, setCurrentSlide }) {
   let pagination = [];
-  console.log(imagesLength);
 
   for (let i = 0; i < imagesLength; i++) {
     pagination.push({
